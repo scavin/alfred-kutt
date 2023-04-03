@@ -1,4 +1,4 @@
-# Alfred workflow for Kutt
+# Alfred 4 workflow for Kutt
 
 这个项目来自 https://github.com/thedevs-network/alfred-kutt
 
